@@ -59,9 +59,3 @@ Based in Brazil. 🇧🇷
 I am open to collaborations that value substance over hype.
 
 If you’re building something meaningful, let’s talk.
-
-## Contribution trail
-
-![Contribution trail animated over the last 52 weeks of public GitHub activity](assets/contribution-trail.svg)
-
-[Replay animation](https://raw.githubusercontent.com/alexbritodev/alexbritodev/main/assets/contribution-trail.svg)
