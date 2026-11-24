@@ -1,0 +1,8 @@
+{
+  "locale": "en",
+  "excludeRepositories": ["alexbritodev"],
+  "cards": ["overview", "languages", "projects", "activity"],
+  "layout": "columns",
+  "branding": { "position": "hidden" },
+  "cardAnimations": { "overview": "fade", "languages": "rise", "projects": "sweep" }
+}

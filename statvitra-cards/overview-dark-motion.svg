@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="432" height="277" viewBox="0 0 432 277" role="img" aria-labelledby="title description" xml:lang="en">
+<title id="title">Profile overview</title>
+<desc id="description">Repositories — 2. Stars received — 0. Forks received — 0. Followers — 28</desc>
+<style>.content { animation: fade 1.25s ease-out } @keyframes fade { from { opacity: .22 } }</style>
+<g font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-variant-numeric="tabular-nums">
+<rect x="0.5" y="0.5" width="431" height="276" rx="22" fill="#111426" stroke="#343d5c"/>
+
+
+<text x="28" y="49" font-size="28" font-weight="750" text-anchor="start" fill="#f4f4ff" unicode-bidi="plaintext">Profile overview</text>
+<text x="28" y="75" font-size="15" font-weight="500" text-anchor="start" fill="#b9c2dd" unicode-bidi="plaintext">@alexbritodev</text>
+
+<g transform="translate(0 -33)"><g class="content"><rect x="28" y="126" width="184" height="61" rx="11" fill="#1b2038" stroke="#343d5c"/><text x="41" y="153" font-size="24" font-weight="750" text-anchor="start" fill="#f4f4ff" unicode-bidi="plaintext">2</text><text x="41" y="174" font-size="14" font-weight="500" text-anchor="start" fill="#b9c2dd" unicode-bidi="plaintext">Repositories</text><rect x="220" y="126" width="184" height="61" rx="11" fill="#1b2038" stroke="#343d5c"/><text x="233" y="153" font-size="24" font-weight="750" text-anchor="start" fill="#f4f4ff" unicode-bidi="plaintext">0</text><text x="233" y="174" font-size="14" font-weight="500" text-anchor="start" fill="#b9c2dd" unicode-bidi="plaintext">Stars received</text><rect x="28" y="194" width="184" height="61" rx="11" fill="#1b2038" stroke="#343d5c"/><text x="41" y="221" font-size="24" font-weight="750" text-anchor="start" fill="#f4f4ff" unicode-bidi="plaintext">0</text><text x="41" y="242" font-size="14" font-weight="500" text-anchor="start" fill="#b9c2dd" unicode-bidi="plaintext">Forks received</text><rect x="220" y="194" width="184" height="61" rx="11" fill="#1b2038" stroke="#343d5c"/><text x="233" y="221" font-size="24" font-weight="750" text-anchor="start" fill="#f4f4ff" unicode-bidi="plaintext">28</text><text x="233" y="242" font-size="14" font-weight="500" text-anchor="start" fill="#b9c2dd" unicode-bidi="plaintext">Followers</text></g></g>
+<rect x="28" y="236" width="376" height="1" rx="0" fill="#343d5c" stroke="none"/>
+<text x="28" y="260" font-size="13" font-weight="500" text-anchor="start" fill="#b9c2dd" unicode-bidi="plaintext">Selected public repositories</text>
+</g>
+</svg>
