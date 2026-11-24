@@ -26,6 +26,4 @@
 </picture>
 </p>
 
-[Read the stats as text](./statvitra-cards/REPORT.md)
-
 <!-- statvitra:end -->

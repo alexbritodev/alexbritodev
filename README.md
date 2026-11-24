@@ -50,8 +50,6 @@ This isn't just a side role; it defines how I work. Teaching philosophy keeps my
 </picture>
 </p>
 
-[Read the stats as text](./statvitra-cards/REPORT.md)
-
 <!-- statvitra:end -->
 
 ## 🛠️ Toolbelt
