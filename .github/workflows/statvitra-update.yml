@@ -21,7 +21,7 @@ jobs:
         uses: actions/checkout@de0fac2e4500dabe0009e67214ff5f5447ce83dd # v6.0.2
 
       - name: Generate cards
-        uses: alexbritodev/statvitra@96352789276c5630208cb2eebcd4f013a1add04c # v1.2.0
+        uses: alexbritodev/statvitra@1ce93946e0d83c8fca17003b9e257ccb3d525014
         with:
           token: ${{ github.token }}
 
