@@ -1,8 +1,29 @@
 {
   "locale": "en",
-  "excludeRepositories": ["alexbritodev"],
-  "cards": ["overview", "languages", "projects", "activity"],
+  "excludeRepositories": [
+    "alexbritodev"
+  ],
+  "cards": [
+    "overview",
+    "languages",
+    "projects",
+    "activity"
+  ],
   "layout": "columns",
-  "branding": { "position": "hidden" },
-  "cardAnimations": { "overview": "fade", "languages": "rise", "projects": "sweep" }
+  "branding": {
+    "position": "hidden"
+  },
+  "cardAnimations": {
+    "overview": "fade",
+    "languages": "rise",
+    "projects": "sweep"
+  },
+  "overviewMetrics": [
+    "repos",
+    "stars",
+    "forks",
+    "forksMade",
+    "followers",
+    "following"
+  ]
 }

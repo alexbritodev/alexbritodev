@@ -2,11 +2,14 @@
 
 ## Profile overview
 
-@alexbritodev
+- Repositories — 2
+- Stars received — 0
+- Forks received — 0
+- Forks made — 3
+- Followers — 28
+- Following — 379
 
-Repositories — 2\. Stars received — 0\. Forks received — 0\. Followers — 28
-
-Selected public repositories
+Public GitHub data
 
 ## Top languages
 

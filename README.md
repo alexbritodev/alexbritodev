@@ -37,9 +37,7 @@ This isn't just a side role; it defines how I work. Teaching philosophy keeps my
   <source media="(prefers-color-scheme: dark)" srcset="./statvitra-cards/languages-dark.svg">
   <img alt="Top languages" src="./statvitra-cards/languages-light.svg" width="320" align="top">
 </picture>
-</p>
-
-<p>
+<br>
 <picture>
   <source media="(prefers-reduced-motion: no-preference) and (prefers-color-scheme: dark)" srcset="./statvitra-cards/projects-dark-motion.svg">
   <source media="(prefers-reduced-motion: no-preference) and (prefers-color-scheme: light)" srcset="./statvitra-cards/projects-light-motion.svg">
